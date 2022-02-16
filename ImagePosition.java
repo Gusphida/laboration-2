@@ -5,7 +5,7 @@ public class ImagePosition {
     private BufferedImage image;
     private Point position;
 
-    public ImagePosition(BufferedImage image ,Point position) {
+    public ImagePosition(BufferedImage image, Point position) {
         this.image = image;
         this.position = position;
     }
